@@ -1,4 +1,4 @@
-# BuckshotRoulette-Reverse
+# BuckshotRoulette scripts reverse
 
 ## 📜 Overview
 Reverse engineering buckshot roulette and script analysis using gdre tools
